@@ -1,1 +1,1 @@
-# go-test-sql
+# go-json-sql-printer
